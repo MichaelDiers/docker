@@ -1,4 +1,4 @@
-# Use Node.js without a local installation
+# Use Python without a local installation
 
 Uses a latest python image and opens a bash shell running on 
 the container. Therefore you can use python 
