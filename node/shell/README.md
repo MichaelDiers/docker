@@ -11,4 +11,4 @@ docker compose run --rm --service-ports node_shell
 - uses Node.js LTS
 - maps port 3000
 - local folder is mapped to /home/app
-- open bash shell
+- opens bash shell
